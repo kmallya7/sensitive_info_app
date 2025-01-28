@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sensitive Info App
 
 This application fetches sensitive information (PII) from a Snowflake database.
@@ -8,3 +9,7 @@ This application fetches sensitive information (PII) from a Snowflake database.
    ```bash
    git clone https://github.com/yourusername/sensitive_info_app.git
    cd sensitive_info_app
+=======
+# sensitive_info_app
+Extracting PII
+>>>>>>> origin/main
